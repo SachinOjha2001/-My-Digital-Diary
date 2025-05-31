@@ -67,6 +67,7 @@ Right-click on `index.html` and choose **"Open with Live Server"**
 💼 Frontend Developer  
 📚 Currently learning Full Stack Development  
 🎓 The Oxford College Of Engineering (Bengaluru) 
+ Education Status= pursuing in MCA
 
 ---
 
