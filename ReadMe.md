@@ -66,7 +66,7 @@ Right-click on `index.html` and choose **"Open with Live Server"**
 **Sachin Kumar Ojha**  
 💼 Frontend Developer  
 📚 Currently learning Full Stack Development  
-🎓 The Oxford College Of Engineering (Bengaluru) 
+🎓 The Oxford College Of Engineering (Bengaluru) <br>
  Education Status= pursuing in MCA
 
 ---
